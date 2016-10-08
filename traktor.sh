@@ -64,4 +64,4 @@ sudo service tor restart
 # Install Finish
 echo "Install Finished successfully…"
 sleep 3
-echo -e "Please type '\e[32mtail -f /var/log/tor/log\e[0m to see log." 'but see "\e[31mBootstrapped 100%: Done\e[0m"' "mean tor is \e[92mActive!"
+echo -e "Please type '\e[32mtail -f /var/log/tor/log\e[0m to see log'." 'but see "\e[31mBootstrapped 100%: Done\e[0m"' "mean tor is \e[92mActive!"
